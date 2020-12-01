@@ -8,6 +8,7 @@ outputs:
 runs:
   using: 'docker'
   image: 'Dockerfile'
+
 branding:
   icon: 'book'
   color: 'blue'
